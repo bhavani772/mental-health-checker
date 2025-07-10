@@ -24,8 +24,8 @@ The aim of this tool is to:
    ```bash
    pip install streamlit
 
-Run the app using the command:
+Run the application using the command:
 
 bash
 (to run the program)
-streamlit run mental_health_kiosk.py
+python -m streamlit run mental_health_kiosk.py

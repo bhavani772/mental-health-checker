@@ -101,5 +101,3 @@ if submitted:
             st.warning("You're experiencing mild to moderate symptoms. Consider speaking to a counselor or support group.")
         else:
             st.error("Please seek help from a mental health professional immediately.")
-            st.markdown("\U0001F4DE **Helpline:** 9152987821 (Tele-MANAS India)")
-
